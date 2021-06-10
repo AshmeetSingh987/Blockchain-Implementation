@@ -1,3 +1,3 @@
 # Blockchain-Implementation
-Using Node js and TypeScript 
-A cli capable of Making Vue, Node-Express , React  , Static Scripts using Npm Packages Such as inquirer , FS etc .
+Using Crypto module and using encryption techniques Like MD5 and SHA256 
+Buit Chain as used in Crypto Currency using Blockchain Implemetation 
